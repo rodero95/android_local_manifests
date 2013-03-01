@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+   <project path="device/samsung/galaxysl" name="rodero95/android_device_samsung_galaxysl.git" remote="github" revision="jellybean"/>
+   <project path="kernel/samsung/latona" name="rodero95/android_kernel_samsung_latona.git" remote="github" revision="jellybean"/>
+   <project path="vendor/samsung/galaxysl" name="dhiru1602/android_vendor_samsung_galaxysl.git" remote="github" revision="jellybean"/>
+   </manifest>

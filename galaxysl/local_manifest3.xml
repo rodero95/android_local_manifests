@@ -3,4 +3,8 @@
    <project path="device/samsung/galaxysl" name="rodero95/android_device_samsung_galaxysl.git" remote="github" revision="cm-10.1"/>
    <project path="kernel/samsung/latona" name="rodero95/android_kernel_samsung_latona.git" remote="github" revision="cm-10.1"/>
    <project path="vendor/samsung/galaxysl" name="dhiru1602/android_vendor_samsung_galaxysl.git" remote="github" revision="jellybean-3.0"/>
+   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater"/>
+   <project name="rodero95/android_packages_apps_CMUpdater.git" path="packages/apps/CMUpdater" remote="github" revision="cm-10.1"/>
+   <remove-project name="CyanogenMod/android_external_wpa_supplicant_8" />
+   <project name="rodero95/android_external_wpa_supplicant_8.git" path="external/wpa_supplicant_8" remote="github" revision="cm-10.1"/>
    </manifest>
